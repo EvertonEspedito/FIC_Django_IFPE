@@ -15,7 +15,7 @@ Desenvolver/Aprimorar habilidades práticas com **HTML5**, **CSS3**, **JavaScrip
 - **HTML5**.  
 - **CSS3**.  
 - **JavaScript**.  
-- **Djangp**.  
+- **Django**.  
 
 ## Autores
 
